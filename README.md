@@ -2,8 +2,8 @@
 # Hola GitHub Fans, soy Fernando Quezada  Puño 👋
 <h2 align="center">Feel free to Connect 👥 with me on 📫</h2>
 
-<br>
 <p align="center">
+  
 <a href="https://www.linkedin.com/in/fernando-quezada-pu%C3%B1o-0b99b957/" class="social-media-icon">
 <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
 </a>
@@ -13,6 +13,7 @@
 <a href="https://www.instagram.com/elferna_2/" class="social-media-icon">
 <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
 </a>
+  
 </p>
 <br>
 <br>
@@ -21,14 +22,15 @@
 
 ### Languages and Tools:
 
-<div display="flex">
+<p align="center">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=black">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
- </div>
+
+</p>
 <br>
 <br>
 
