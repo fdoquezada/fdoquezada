@@ -1,8 +1,10 @@
+
 ### Hi there 👋
 # Hola GitHub Fans, soy Fernando Quezada  Puño 👋
 <h2 align="center">Feel free to Connect 👥 with me on 📫</h2>
 
 <p align="center">
+
   
 <a href="https://www.linkedin.com/in/fernando-quezada-pu%C3%B1o-0b99b957/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fernando%20Quezada%20Puño-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:fdoquezadapuno@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fdoquezadapuno@gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -14,6 +16,8 @@
 ## 🛠️ Languages and Tools:
 
 ### Languages and Tools:
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
