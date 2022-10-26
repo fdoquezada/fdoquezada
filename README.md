@@ -1,6 +1,4 @@
-
-### Hi there 👋
-# Hola GitHub Fans, soy Fernando Quezada  Puño 👋
+# 👋 Hola GitHub Fans, soy Fernando Quezada  Puño 👋
 <h2 align="center">Feel free to Connect 👥 with me on 📫</h2>
 
 <p align="center">
